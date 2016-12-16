@@ -100,7 +100,7 @@ Outline:
 
 Katy Farmer: How to Play the Trumpet Indoors
 
-Outline:
+Outline: https://gist.github.com/TheKaterTot/2e328701cd79e747b712fb295b4b5dc5
 
 
 
